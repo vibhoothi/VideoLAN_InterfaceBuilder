@@ -14,6 +14,7 @@
 		11CAA72220C3E2D300DDC8C8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 11CAA72120C3E2D300DDC8C8 /* main.m */; };
 		11CAA72D20C3E2D300DDC8C8 /* VideoLANDemoBuildBoxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11CAA72C20C3E2D300DDC8C8 /* VideoLANDemoBuildBoxTests.m */; };
 		11CAA73820C3E2D300DDC8C8 /* VideoLANDemoBuildBoxUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11CAA73720C3E2D300DDC8C8 /* VideoLANDemoBuildBoxUITests.m */; };
+		11CAA76A20C3E42E00DDC8C8 /* AutoLayoutIcecast.xib in Resources */ = {isa = PBXBuildFile; fileRef = 11CAA76920C3E42E00DDC8C8 /* AutoLayoutIcecast.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		11CAA73320C3E2D300DDC8C8 /* VideoLANDemoBuildBoxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoLANDemoBuildBoxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11CAA73720C3E2D300DDC8C8 /* VideoLANDemoBuildBoxUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VideoLANDemoBuildBoxUITests.m; sourceTree = "<group>"; };
 		11CAA73920C3E2D300DDC8C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11CAA76920C3E42E00DDC8C8 /* AutoLayoutIcecast.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AutoLayoutIcecast.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				11CAA72020C3E2D300DDC8C8 /* Info.plist */,
 				11CAA72120C3E2D300DDC8C8 /* main.m */,
 				11CAA72320C3E2D300DDC8C8 /* VideoLANDemoBuildBox.entitlements */,
+				11CAA76920C3E42E00DDC8C8 /* AutoLayoutIcecast.xib */,
 			);
 			path = VideoLANDemoBuildBox;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			files = (
 				11CAA71C20C3E2D300DDC8C8 /* Assets.xcassets in Resources */,
 				11CAA71F20C3E2D300DDC8C8 /* Main.storyboard in Resources */,
+				11CAA76A20C3E42E00DDC8C8 /* AutoLayoutIcecast.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
